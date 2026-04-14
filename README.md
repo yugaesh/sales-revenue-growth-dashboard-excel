@@ -73,7 +73,7 @@ Channel effectiveness (Online vs Offline)
 Gap between target vs actual performance
 
 📊 Dashboard Preview
-![Sales Dashboard](dashboard.jpg)
+![Sales Dashboard](Dashboard.jpg)
 
 🧠 Key Learnings
 
